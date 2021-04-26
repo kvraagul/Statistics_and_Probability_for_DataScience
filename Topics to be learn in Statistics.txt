@@ -1,6 +1,4 @@
-Statistics
-
-How to Learn Statistics for Data Science As A Self Starter
+Statistics for Data Science
 
 Basics Stats
 --------------------------------
